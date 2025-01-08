@@ -1,0 +1,1 @@
+This repository contains a Perl script that highlights a common issue involving comparisons with undef values. The script demonstrates the unexpected behavior of directly comparing an undef variable with a string using the `eq` operator.  The solution demonstrates the proper way to handle undef values in such comparisons.
